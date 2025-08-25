@@ -168,6 +168,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-*This extension demonstrates advanced VS Code extension development skills and serves as a portfolio piece showcasing JavaScript expertise, API integration capabilities, and Microsoft technology proficiency.*
-
 
