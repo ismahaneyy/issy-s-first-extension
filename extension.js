@@ -24,7 +24,7 @@ async function activate(context) {
 }));
 // convert XML to JSON
 
-        console.log(JSON.stringify(articles. null, 2)); // now works correctly
+        console.log(JSON.stringify(articles, null, 2)); 
 
 	// Use the console to output diagnostic information (console.log) and errors (console.error)
 	// This line of code will only be executed once when your extension is activated
